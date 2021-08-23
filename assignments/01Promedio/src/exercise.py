@@ -9,4 +9,4 @@ def calcula_promedio():
     
     print ("El promedio es: " + str(promedio))
 
-calcula_promedio()
+calcula_promedio ()
